@@ -8,10 +8,10 @@ int main(){
     cin >> lettera;
 
     if(controllo(lettera)){
-        cout << true << endl;
         cout << conversione(lettera) << endl;
-    }else
-        cout << false << endl;
+    }else{
+        cout << "errore" << endl;
+    }
 
     return 0;
 }
