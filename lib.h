@@ -1,3 +1,3 @@
-bool controllo(char a):
+bool controllo(char b);
 char conversione(char b);
     
