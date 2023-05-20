@@ -13,6 +13,4 @@ char conversione(char b){
     }else if ((b >= 'A') and (b <= 'Z')){
         b+=32;
         return b;
-    }else
-        return false;
-}
+    }
