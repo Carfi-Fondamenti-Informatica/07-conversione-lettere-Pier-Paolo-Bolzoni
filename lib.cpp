@@ -14,5 +14,5 @@ char conversione(char b){
         b+=32;
         return b;
     }else
-        return false;
+        return ;
 }
